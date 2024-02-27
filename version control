@@ -1,0 +1,31 @@
+version control using Git In DevOps, version control using Git typically involves the following phases:
+
+1) Repository Setup: Create a Git repository to store your project's code and related files. This can be done locally or on a hosting platform like GitHub, GitLab, or Bitbucket.
+
+2) Branching Strategy: Define a branching strategy that suits your development workflow. Common strategies include Gitflow, GitHub Flow, or a customized approach based on your team's needs.
+
+3) Development: Developers work on their tasks and features in separate branches. They commit their changes frequently with descriptive commit messages.
+
+4) Code Review: Before merging changes into the main branch (e.g., master or main), code reviews are conducted to ensure code quality, adherence to coding standards, and to catch potential issues early.
+
+5) Continuous Integration (CI): Set up CI pipelines that automatically build, test, and possibly deploy code changes whenever a new commit is pushed to the repository. This ensures that changes are validated and integrated into the codebase continuously.
+
+6) Merging: After changes have been reviewed and approved, they are merged into the main branch. This triggers CI pipelines to ensure that the integration of changes with the main branch doesn't introduce any conflicts or regressions.
+
+7) Deployment: Once changes are merged into the main branch and pass all tests, they can be deployed to production or staging environments using automated deployment pipelines.
+
+8) Monitoring and Feedback: Monitor application performance and user feedback in production environments. Collect metrics and logs to identify areas for improvement and iterate on the development process.
+
+9) Maintenance and Iteration: Iterate on the development process based on feedback and lessons learned from previous deployments. Continuously improve the development workflow to increase efficiency and reliability.
+
+
+  Basic codes in git
+  mkdir <file name> -> creates the file
+  ls -> displays the files present in the folder
+  cd <directory or folder> -> it changes the directory according to the file name
+  git init -> initializes the empty github repository
+  touch <filename.py> ->creates a file name in the folder
+  vim <filename> -> i to edit and esc->:wq to return back.
+  git add <file name> add it to the repo
+  git status -> lets you know the current branch status
+  git commit -m "<filename>" -> the file is commited to staging phase
