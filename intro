@@ -21,5 +21,13 @@ Limitations:- High amounts of risk and uncertainity, No working software is prod
  The product development issues at developer team and operations team
 
 
- DevOps (Developer operations strategy which bridges the gap btwn Developers and Operators) it is a methodology
+ DevOps (Developer operations strategy which bridges the gap btwn Developers and Operators) it is a methodology to properly maintain code
+ Devops has following stages:-
+1) Version control (Maintains different versions of the code) -> SOurce Code management
+2) Continous integration (Compile,Validate,Code Review,Testing,Integration Testing) -> Continous Build
+3) Continous Delivery (Deploying the build applications to test servers, Performing UAT) -> Continous Testing
+4)Continous Deployment (Deploying the tested application on the prod server for release)  -> Configuration Management and Containerization
+  All 1,2,3,4 are under continous monitoring
+
+
  
