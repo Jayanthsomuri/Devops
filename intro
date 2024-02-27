@@ -1,0 +1,25 @@
+                                      Water fall Model
+Waterfall Development Model :- It has distinct goals for each of development. Imagine a waterfall on the cliff of a steep
+mountain. Once the water has flowed over the cliff, it cannot turn back.
+
+Steps involved in traditional model:
+-> Requirements and Gathering Analysis
+->Design
+->Implement
+->Test
+->Deploy
+-> Maintenance
+Limitations:- High amounts of risk and uncertainity, No working software is produced until late during the life cycle the main disadvantage no reverting back
+
+
+                                Agile Methodology
+ In the Agile Methodology each project is broken up into several iterations
+ All iterations should be of the same time duration
+ At the end of each iteration, a working product should be delivered
+
+ limitations:- 
+ The product development issues at developer team and operations team
+
+
+ DevOps (Developer operations strategy which bridges the gap btwn Developers and Operators) it is a methodology
+ 
