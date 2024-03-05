@@ -1,0 +1,5 @@
+// Continous Integration:- Continuous Integration (CI) in DevOps is the practice of frequently integrating code changes into a shared repository, where automated builds and tests are triggered upon each integration. 
+This ensures that the codebase is continuously verified for stability and correctness, enabling early detection of integration errors and reducing the risk of defects.
+
+
+Jenkins 
