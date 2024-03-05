@@ -29,3 +29,8 @@ version control using Git In DevOps, version control using Git typically involve
   git add <file name> add it to the repo
   git status -> lets you know the current branch status
   git commit -m "<filename>" -> the file is commited to staging phase
+  git remote add origin "ssh link" -> adding the content from remote repo to local repo
+  git pull origin master -> Pulls content from remote repo to local repo
+git push origin master-> Pushes the content from local to remote repo it creates a branch as filename or the name which we give
+                        
+
